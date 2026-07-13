@@ -1,4 +1,4 @@
-Here are 4 beautiful Plasma 6 widgets for your desktop. I created all of them with the help of AI, and they are fully open-source and ready to use. I haven't tested them on other Linux distributions yet, so if you experience any visual issues, please make sure to install the **Formula1 Display-Regular** and **KH Interference TRIAL** fonts (both downloaded from public resources).
+Here are 4 cool Plasma 6 widgets for your desktop. I created all of them with the help of AI, and they are fully open-source and ready to use. I haven't tested them on other Linux distributions yet, so if you experience any visual issues, please make sure to install the **Formula1 Display-Regular** and **KH Interference TRIAL** fonts (both downloaded from public resources).
 
 > ⚠️ **Disclaimer:** *This is an unofficial, fan-made project. It is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Formula One Group or any of its subsidiaries.*
 
@@ -6,7 +6,7 @@ Here are 4 beautiful Plasma 6 widgets for your desktop. I created all of them wi
 
 # Plasma 6 F1 Widgets Collection
 
-A beautiful collection of Formula 1 inspired widgets for KDE Plasma 6. Created with the help of AI.
+A cool collection of Formula 1 inspired widgets for KDE Plasma 6. Created with the help of AI.
 
 ## 🏎️ Widgets Included
 * **F1 Leaderboard Launcher** (`f1-apps`) - A leaderboard-style application launcher with customizable accent colors.
