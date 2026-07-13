@@ -29,7 +29,7 @@ To install manually, clone this repo or extract the widget folders into your loc
 ## SCREENSHOTS
 ![F1 Apps](Screenshots/F1_Apps.png)
 
-![F1 Weather](Screenshots/F1_Weathers.png)
+![F1 Weather](Screenshots/F1_Weather.png)
 
 ![F1 Day](Screenshots/F1_Day.png)
 
