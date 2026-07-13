@@ -25,3 +25,12 @@ To install manually, clone this repo or extract the widget folders into your loc
 
 ```bash
 ~/.local/share/plasma/plasmoids/
+```
+## SCREENSHOTS
+![F1 Apps](Screenshots/F1_Apps.png)
+
+![F1 Weather](Screenshots/F1_Weathers.png)
+
+![F1 Day](Screenshots/F1_Day.png)
+
+![F1 Reaction](Screenshots/F1_Reaction.png)
