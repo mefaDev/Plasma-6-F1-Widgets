@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kcfg xmlns="http://www.kde.org/standards/kcfg/1.0"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.kde.org/standards/kcfg/1.0
+      http://www.kde.org/standards/kcfg/1.0/main.xsd">
+    <group name="General">
+        <entry name="f1FontName" type="String">
+            <default>Formula1 Display Regular</default>
+        </entry>
+        <entry name="khFontName" type="String">
+            <default>KH Interference</default>
+        </entry>
+        <entry name="f1RedColor" type="String">
+            <default>#e10600</default>
+        </entry>
+        <entry name="bgColor" type="String">
+            <default>#15161c</default>
+        </entry>
+        <entry name="logoPath" type="String">
+            <default>f1</default>
+        </entry>
+        <entry name="logoType" type="Int">
+            <default>0</default>
+        </entry>
+        <entry name="launcherAppsJson" type="String">
+            <default>[{"name":"VIVALDI","icon":"browser-vivaldi","desktop":"vivaldi-stable.desktop","accentColor":"#EF3939"},{"name":"STEAM","icon":"steam","desktop":"steam.desktop","accentColor":"#171a21"},{"name":"DISCORD","icon":"discord","desktop":"discord.desktop","accentColor":"#5865F2"},{"name":"DOLPHIN","icon":"system-file-manager","desktop":"org.kde.dolphin.desktop","accentColor":"#3daee9"},{"name":"KATE","icon":"kate","desktop":"org.kde.kate.desktop","accentColor":"#00A2ED"}]</default>
+        </entry>
+        <entry name="appIconSize" type="Int">
+            <default>24</default>
+            <min>12</min>
+            <max>48</max>
+        </entry>
+        <entry name="positionBoxWidth" type="Int">
+            <default>34</default>
+            <min>20</min>
+            <max>60</max>
+        </entry>
+        <entry name="rowHeight" type="Int">
+            <default>36</default>
+            <min>24</min>
+            <max>72</max>
+        </entry>
+        <entry name="logoImageWidth" type="Int">
+            <default>180</default>
+            <min>40</min>
+            <max>260</max>
+        </entry>
+        <entry name="logoImageHeight" type="Int">
+            <default>60</default>
+            <min>20</min>
+            <max>120</max>
+        </entry>
+    </group>
+</kcfg>

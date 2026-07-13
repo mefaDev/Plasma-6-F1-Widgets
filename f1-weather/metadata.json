@@ -1,0 +1,20 @@
+{
+    "KPlugin": {
+        "Id": "f1-weather",
+        "Name": "F1 Weather",
+        "Description": "Plasma 6 uyumlu F1 tarzında Hava Durumu Widget'ı",
+        "Icon": "speedometer",
+        "Authors": [
+            {
+                "Name": "mefaDEv"
+            }
+        ],
+        "Category": "Utilities",
+        "EnabledByDefault": true,
+        "License": "GPL-2.0+",
+        "Version": "4.0",
+        "Website": ""
+    },
+    "KPackageStructure": "Plasma/Applet",
+    "X-Plasma-API-Minimum-Version": "6.0"
+}

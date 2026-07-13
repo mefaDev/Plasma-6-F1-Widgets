@@ -1,0 +1,21 @@
+{
+    "KPlugin": {
+        "Id": "f1-reaction",
+        "Name": "F1 Reaction",
+        "Description": "Plasma 6 uyumlu F1 tarzında saatli uygulama başlatıcı",
+        "Icon": "speedometer",
+        "Authors": [
+            {
+                "Name": "mefaDev"
+            }
+        ],
+        "Category": "Utilities",
+        "EnabledByDefault": true,
+        "License": "GPL-2.0+",
+        "Version": "4.0",
+        "Website": ""
+    },
+    "KPackageStructure": "Plasma/Applet",
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "X-Plasma-BackgroundHints": "NoBackground"
+}

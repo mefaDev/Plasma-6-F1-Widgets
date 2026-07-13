@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kcfg xmlns="http://www.kde.org/standards/kcfg/1.0"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.kde.org/standards/kcfg/1.0
+      http://www.kde.org/standards/kcfg/1.0/main.xsd">
+    <group name="General">
+        <entry name="cityLabel" type="String">
+            <default>ANKARA</default>
+        </entry>
+        <entry name="latitude" type="Double">
+            <default>39.9334</default>
+        </entry>
+        <entry name="longitude" type="Double">
+            <default>32.8597</default>
+        </entry>
+        <entry name="refreshMinutes" type="Int">
+            <default>15</default>
+            <min>5</min>
+            <max>120</max>
+        </entry>
+        <entry name="f1FontName" type="String">
+            <default>Formula1 Display-Regular</default>
+        </entry>
+        <entry name="f1FontBoldName" type="String">
+            <default>Formula1 Display Bold</default>
+        </entry>
+        <entry name="khFontName" type="String">
+            <default>KH Interference Trial</default>
+        </entry>
+        <entry name="accentColor" type="String">
+            <default>#D4FF00</default>
+        </entry>
+        <entry name="bgColor" type="String">
+            <default>#1c1c1c</default>
+        </entry>
+        <entry name="headerBgColor" type="String">
+            <default>#F0F0F0</default>
+        </entry>
+        <entry name="detailIconSize" type="Int">
+            <default>28</default>
+            <min>16</min>
+            <max>64</max>
+        </entry>
+        <entry name="trackIconPath" type="String">
+            <default></default>
+        </entry>
+        <entry name="humidityIconPath" type="String">
+            <default></default>
+        </entry>
+        <entry name="windIconPath" type="String">
+            <default></default>
+        </entry>
+    </group>
+</kcfg>
