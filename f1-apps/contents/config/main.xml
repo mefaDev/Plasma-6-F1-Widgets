@@ -23,7 +23,7 @@
             <default>0</default>
         </entry>
         <entry name="launcherAppsJson" type="String">
-            <default>[{"name":"VIVALDI","icon":"browser-vivaldi","desktop":"vivaldi-stable.desktop","accentColor":"#EF3939"},{"name":"STEAM","icon":"steam","desktop":"steam.desktop","accentColor":"#171a21"},{"name":"DISCORD","icon":"discord","desktop":"discord.desktop","accentColor":"#5865F2"},{"name":"DOLPHIN","icon":"system-file-manager","desktop":"org.kde.dolphin.desktop","accentColor":"#3daee9"},{"name":"KATE","icon":"kate","desktop":"org.kde.kate.desktop","accentColor":"#00A2ED"}]</default>
+            <default>[{"name":"Brave","icon":"brave","desktop":"brave","accentColor":"#ff881a"},{"name":"DOLPHIN","icon":"d3lphin","desktop":"dolphin","accentColor":"#3daee9"},{"name":"Uçbirim","icon":"konsole","desktop":"konsole","accentColor":"#6c6c6c"},{"name":"AYARLAR","icon":"systemsettings","desktop":"settings","accentColor":"#3daee9"},{"name":"Keşfet","icon":"kynaptic","desktop":"plasma-discover","accentColor":"#6548d2"},{"name":"Kate","icon":"kate","desktop":"kate","accentColor":"#4878d2"}]</default>
         </entry>
         <entry name="appIconSize" type="Int">
             <default>24</default>
